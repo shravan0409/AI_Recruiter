@@ -1,0 +1,14 @@
+Subject,Concept,Answer
+Object oriented programming,OOPS,"bject-Oriented Programming or OOPs refers to languages that uses objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function."
+Object oriented programming,OOPS,"it is a type of programming which is based on objects rather than just functions and procedures. Individual objects are grouped into classes. OOPs implements real-world entities like inheritance, polymorphism, hiding, etc into programming. It also allows binding data and code together."
+Object oriented programming,OOPS,"Inheritance, Encapsulation, Polymorphism, Data Abstraction"
+Data Structures,Data structure,A data structure is a particular way of organizing data in a computer so that it can be used effectively.
+Data Structures,Data structure,"a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data."
+Data Structures,Data structure," Data Structure such as Array, Pointer, Structure, Linked List, Stack, Queue, Graph, Searching, Sorting, Programs"
+Data Structures,Arrays,Arrays are list-like objects whose prototype has methods to perform traversal and mutation operations
+Data Structures,Arrays,An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value
+Data Structures,Arrays,we can think of an array a fleet of stairs where on each step is placed a value
+Data Structures,Arrays,Arrays allow random access of elements. This makes accessing elements by position faster.
+Data Structures,Linked List,"A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers "
+Data Structures,Linked List,"A linked list is made up of many nodes which are connected in nature. Every node is mainly divided into two parts, one part holds the data and the other part is connected to a different node."
+Data Structures,Linked List,"Unlike arrays, the linked list does not store data items in contiguous memory locations."
