@@ -1,0 +1,31 @@
+Subject,Concept,Answer
+Object oriented programming,OOPS,"bject-Oriented Programming or OOPs refers to languages that uses objects in programming. Object-oriented programming aims to implement real-world entities like inheritance, hiding, polymorphism etc in programming. The main aim of OOP is to bind together the data and the functions that operate on them so that no other part of the code can access this data except that function."
+Object oriented programming,OOPS,"it is a type of programming which is based on objects rather than just functions and procedures. Individual objects are grouped into classes. OOPs implements real-world entities like inheritance, polymorphism, hiding, etc into programming. It also allows binding data and code together."
+Object oriented programming,OOPS,"Inheritance, Encapsulation, Polymorphism, Data Abstraction"
+Data Structures,Data structure,A data structure is a particular way of organizing data in a computer so that it can be used effectively.
+Data Structures,Data structure,"a data structure is a data organization, management, and storage format that enables efficient access and modification. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data."
+Data Structures,Data structure," Data Structure such as Array, Pointer, Structure, Linked List, Stack, Queue, Graph, Searching, Sorting, Programs"
+Data Structures,Arrays,Arrays are list-like objects whose prototype has methods to perform traversal and mutation operations
+Data Structures,Arrays,An array is a collection of items stored at contiguous memory locations. The idea is to store multiple items of the same type together. This makes it easier to calculate the position of each element by simply adding an offset to a base value
+Data Structures,Arrays,we can think of an array a fleet of stairs where on each step is placed a value
+Data Structures,Arrays,Arrays allow random access of elements. This makes accessing elements by position faster.
+Data Structures,Linked List,"A linked list is a linear data structure, in which the elements are not stored at contiguous memory locations. The elements in a linked list are linked using pointers "
+Data Structures,Linked List,"A linked list is made up of many nodes which are connected in nature. Every node is mainly divided into two parts, one part holds the data and the other part is connected to a different node."
+Data Structures,Linked List,"Unlike arrays, the linked list does not store data items in contiguous memory locations."
+DBMS,definition,"This is a system that allows its user to store the data, define it, retrieve it and update the information about the data inside the database."
+DBMS,definition,"Database is a collection of data in some organized way to facilitate its user’s to easily access, manage and upload the data."
+DBMS,SQL,main purpose is to interact with the relational databases in the form of inserting and updating/modifying the data in the database.
+DBMS,SQL,It is the standard language for relational database management systems
+DBMS,SQL, SQL is a domain-specific programming language that we use to communicate with a database
+Data Structures,BST,The left subtree of a node contains only nodes with keys lesser than the node’s key
+Data Structures,BST,The right subtree of a node contains only nodes with keys greater than the node’s key.
+Data Structures,BST,the left and right subtree each must also be a binary search tree.
+Data Structures,MST,is a subset of the edges of a connected
+Data Structures,MST,"edge-weighted undirected graph that connects all the vertices together, without any cycles and with the minimum possible total edge weight"
+Data Structures,MST,a spanning tree whose sum of edge weights is as small as possible
+DBMS,NORMALIZATION,Normalization is the process of organizing the data in the database.
+DBMS,NORMALIZATION,Normalization divides the larger table into the smaller table and links them using relationship.
+DBMS,NORMALIZATION,The normal form is used to reduce redundancy from the database table.
+OOPS,CLASS," class is a blueprint for creating objects, providing initial values for states, and implementations of behavior."
+OOPS,CLASS,The class is a blueprint that defines a nature of a future object.
+OOPS,CLASS,An instance is a specific object created from a particular class
